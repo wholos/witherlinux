@@ -1,2 +1,2 @@
 # witherlinux
-minimalistic distribution
+wither.f
