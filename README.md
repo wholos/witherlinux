@@ -1,2 +1,2 @@
 # witherlinux
-wither.f
+witherlinux.fun
