@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+clear
+echo 'Witherlinux initializated'
+exec /usr/bin/bash
